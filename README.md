@@ -1,4 +1,6 @@
-# `onnx` to `rknn` convertation for Rockchip NPU
+# NEW version of this included in yolo repos: [yolov8](https://github.com/lipophrenia/yolov8) and [yolov10](https://github.com/lipophrenia/yolov10)
+
+### `onnx` to `rknn` convertation for Rockchip NPU
 
 Method 1.
 
